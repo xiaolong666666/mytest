@@ -1,0 +1,38 @@
+body{
+	width: 100%;
+	background: #e1e0c7;
+	color: #333;min-height: 935px;
+}
+#container{
+	width: 670px;
+	text-align: center;
+	padding: 50px;
+}
+.content{
+	padding: 15px;
+    font-size: 14px;
+    background-color: #F0EFE2;
+    border: 1px solid #C8C7BC;
+    border-radius: 5px;
+	clear: both;
+	text-align: left;
+	color:#333;
+}
+h2{
+	padding: 5px;
+	color: #b00815;
+	font: bold 20px/24px arial;
+}
+h3{
+	padding: 5px;
+	color:#65645f;
+	font-size: 12px;
+}
+li{
+	padding: 5px;
+}
+.foot{
+	padding: 10px 0 0 0;
+	border-top: 1px solid #dad9d1;
+	color:#999;
+}
